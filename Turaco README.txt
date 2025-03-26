@@ -12,6 +12,7 @@ This repository contains the data and code necessary to reproduce the results of
 	- Selection for all structural covariates based on Integrated Step Selection Analyses 		(iSSAs; Fig. 2)
 	- Relative Selection Strength for Canopy Height (Fig. 3)
 	- Seed shadow simulations (Fig. 4)
+- `turaco_UHC_share_GitHub.R`: Script that produces used-habitat calibration plots used to validate iSSA models and produce Figures S2-S5 in the manuscript.
 
 ### Data folder
 ## Turaco Data
