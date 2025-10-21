@@ -13,6 +13,7 @@ This repository contains the data and code necessary to reproduce the results of
 	- Relative Selection Strength for Canopy Height (Fig. 3)
 	- Seed shadow simulations (Fig. 4)
  - `turaco_UHC_share_GitHub.R`: Script that produces used-habitat calibration plots used to validate iSSA models and produce Figures S2-S5 in the manuscript.
+- `turaco_iSSA_share_Revised.R`: Script that performs all the functions of `turaco_iSSA_share_GitHub.R` but with an updated Fig. 2 that colors points according to the sign of the relationship
 
 ### Data folder
 ## Turaco Data
