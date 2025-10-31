@@ -1,8 +1,7 @@
 # Habitat selection of great blue turacos and resulting patterns of seed dispersal
 
-Nicholas J. Russo
+Nicholas J. Russo and Antoine S.A. Tekam
 
-Harvard University
 nicholasrusso@g.harvard.edu
 
 This repository contains the data and code necessary to reproduce the results of Tekam et al. (DOI: )
